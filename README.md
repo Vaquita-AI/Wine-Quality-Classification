@@ -19,9 +19,7 @@ To run the code in this project, you need to have the following libraries instal
 - Imbalanced-learn
 
 You can install these packages using `pip`:
-```
-pip install tensorflow keras-tuner pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
-```
++ pip install tensorflow keras-tuner pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 ## Modules
 The project is structured into different modules as follows:
