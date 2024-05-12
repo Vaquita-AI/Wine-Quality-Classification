@@ -1,3 +1,4 @@
+```markdown
 # Wine Quality Prediction Project
 
 ## Overview
@@ -68,3 +69,4 @@ For any queries regarding this project, please open an issue in the repository, 
 ## Acknowledgments
 Special thanks to the creators of the `yasserh/wine-quality-dataset` for providing the dataset used in this project.
 https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+```
